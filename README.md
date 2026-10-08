@@ -1,27 +1,23 @@
-﻿# 💻 Rafael Alexandre — Desenvolvedor em Formação
+# Olá, sou o Rafael 👋
 
-## 🎯 Sobre mim
-Migrei da Enfermagem para a Tecnologia com disciplina, foco e visão prática de problemas reais. Atuo com **Salesforce (Apex, Triggers, SOQL, Testes)** e **Ciência de Dados com Python**. Combino atenção aos detalhes, resiliência e compromisso com aprendizado contínuo.
+Desenvolvedor em formação com foco em **Salesforce** (Apex, Triggers, SOQL, Lightning Web Components) e uso prático de **Python** para análise de dados e automação.
 
-## 🛠️ Habilidades
-- **Salesforce**: Modelagem de Dados · Apex · Triggers · Classes · SOQL · Testes Unitários · REST API
-- **Programação**: Python · SQL · Git · Docker
-- **Dados**: Análise · Machine Learning · Visualização · Jupyter Notebook
-- **Outros**: VS Code · Metodologias Ágeis · Resolução de Problemas
+## 🧰 Tecnologias principais
+- **Salesforce:** Apex, Triggers, Queueable Apex, LWC, SOQL, Testes Unitários, Integrações REST
+- **Python:** scripts de automação, APIs com FastAPI, análise de dados
+- **Outros:** Git, SQL, VS Code, metodologias ágeis
 
-## 📂 Projetos em Destaque
-| Projeto | Descrição |
-|---|---|
-| **salesforce-studies** | Fundamentos e projetos práticos em Apex, automações e integração |
-| **docker-ml-projeto** | Deploy de modelo de Machine Learning com Python + Docker |
-| **alura-data-science** | Análise de dados, estatística e fundamentos de ML |
+## 💡 O que eu faço
+Desenvolvo soluções Salesforce completas — da modelagem de dados à automação com Apex — e complemento com Python quando o problema exige processamento ou análise fora do Salesforce. Meus projetos têm testes automatizados, documentação e foco em resolver problemas reais.
 
-## 🎓 Em Andamento
-- ✅ Engenharia de Machine Learning — 61% concluído
-- ⏳ Certificação Salesforce PDI (Programmable Developer I)
-- ⏳ Inglês — prática diária em evolução
+## 🎯 O que eu busco
+Vaga de **Desenvolvedor(a) Salesforce Júnior**, onde eu possa aplicar Apex, automações e boas práticas de desenvolvimento no dia a dia.
+
+## 📌 Projetos em destaque
+- [ordenacao-tarefas-prioridade](https://github.com/Rafaelaale/ordenacao-tarefas-prioridade) — automação de priorização de tarefas com Apex + Python
+- **salesforce-task-dashboard** — dashboard de tarefas em LWC com filtros e Apex Controller
+- **salesforce-data-validation-integration** — integração com API externa via Queueable Apex
 
 ## 📫 Contato
-- 🔗 LinkedIn: [seu link aqui]
-- 📍 Salvador — BA
-- ✅ Disponível para vagas Remotas / Híbridas
+- LinkedIn: [linkedin.com/in/rafael-araujo-aa10a4232](https://www.linkedin.com/in/rafael-araujo-aa10a4232/)
+- GitHub: [github.com/Rafaelaale](https://github.com/Rafaelaale)
